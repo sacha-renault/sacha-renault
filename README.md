@@ -1,6 +1,6 @@
 # Hi, I'm Sacha 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=sacha-renault&style=flat-square&color=blueviolet)
 
 ### 🚀 About Me
 🚧 *Under construction. Stay tuned for updates!* 🚧
