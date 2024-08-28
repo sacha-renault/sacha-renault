@@ -34,6 +34,9 @@
 ### 📈 My GitHub Activity Graph
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sacha-renault&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-renault)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
