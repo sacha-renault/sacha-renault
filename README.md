@@ -5,7 +5,7 @@
 ### 🚀 About Me
 🚧 *Under construction. Stay tuned for updates!* 🚧
 
-(portfolio)[me.sacharenault.ovh/me]
+[portfolio](me.sacharenault.ovh/me)
 
 <!--
 - 🌱 I’m currently learning: **[Tech stack or tools you are learning]**
