@@ -6,7 +6,7 @@
 
 Hi, I’m Sacha Renault! I’m a passionate tech enthusiast with a love for artificial intelligence, deep learning, and coding. I’m always looking for new challenges where I can expand my skills in innovative ways, whether it’s training deep learning models, building new software or diving into complex algorithms.
 
-Check out my [portfolio](me.sacharenault.ovh/me/) to get more infos.
+Check out my [portfolio](http://me.sacharenault.ovh/me/) to get more infos.
 
 <!--
 - 🌱 I’m currently learning: **[Tech stack or tools you are learning]**
