@@ -30,14 +30,15 @@ Check out my [portfolio](http://me.sacharenault.ovh/me/) to get more infos.
 <!--
 ### 🔥 My Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sacha-renault&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-renault&layout=compact&langs_count=8&theme=radical"/>
 </p>
 -->
 
-
+<!--
 ### 📈 My GitHub Activity Graph
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sacha-renault&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-renault&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
