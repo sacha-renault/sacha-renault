@@ -35,10 +35,9 @@ Check out my [portfolio](http://me.sacharenault.ovh/me/) to get more infos.
 </p>
 -->
 
-<!--
+
 [### 📈 My GitHub Activity Graph
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sacha-renault&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)](url)
--->
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-renault&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
