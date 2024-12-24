@@ -8,6 +8,8 @@ Hi, I’m Sacha Renault! I’m a passionate tech enthusiast with a love for arti
 
 Check out my [portfolio](http://me.sacharenault.ovh/me/) to get more infos.
 
+I’m currently learning Rust (and i love it).
+
 <!--
 - 🌱 I’m currently learning: **[Tech stack or tools you are learning]**
 - 👯 I’m looking to collaborate on: **[Projects or types of projects]**
