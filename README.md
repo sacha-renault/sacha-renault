@@ -43,7 +43,7 @@ I’m currently learning Rust (and i love it).
 -->
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-renault&hide=jupyter,vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-renault&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### 📫 Connect with Me
